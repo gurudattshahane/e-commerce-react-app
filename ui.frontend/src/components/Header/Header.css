@@ -1,0 +1,30 @@
+header{
+    padding: 10px;
+    background-color: darksalmon;
+}
+header nav,
+header nav ul{
+    display: flex;
+    flex-direction: row;   
+}
+header nav{
+    justify-content: space-around;
+    align-items: center;
+}
+header nav ul{
+    justify-content: left;
+    gap: 10%;
+    flex-grow: 1;
+    justify-content: right;
+}
+header nav h1 {
+    flex-grow: 1;
+}
+header nav h1 a{
+    text-decoration: none;
+    color: black;
+    letter-spacing: 0;
+}
+header nav ul{
+    list-style: none;
+}
