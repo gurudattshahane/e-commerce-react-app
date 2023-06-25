@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Template">
+    <jcr:content
+        cq:created="{Date}2018-10-22T17:08:28.689+05:30"
+        cq:createdBy="admin"
+        cq:lastModified="{Date}2023-06-25T17:16:46.829+05:30"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2023-06-25T17:17:02.996+05:30"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:templateType="/libs/settings/wcm/template-types/html5page"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="E-Commerce React App Page Template"
+        status="enabled"/>
+</jcr:root>
